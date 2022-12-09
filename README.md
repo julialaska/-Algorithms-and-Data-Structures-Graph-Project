@@ -1,2 +1,2 @@
-# -Algorithms-and-Data-Structures-Graph-Project
-Project based on implementing graphs with dead path function
+# Algorithms and Data Structures-Graph Project
+### Project based on implementing graph class with dead path function
